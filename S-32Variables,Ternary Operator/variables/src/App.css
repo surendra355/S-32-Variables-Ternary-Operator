@@ -1,0 +1,25 @@
+table{
+  border: 2px solid;
+  width: 150% ;
+  border-collapse: collapse;
+  background-color: brown;
+  margin: 10px;
+  
+}
+td,th{
+  border: 2px solid;
+  text-align: center;
+  font-size: 1.3rem;
+ 
+}
+caption{
+  background-color: black;
+  color: rgb(233, 214, 214);
+  font-size: 1.7rem;
+}
+div{
+  display: flex;
+ flex-direction: column;
+  align-items: center;
+  
+}
